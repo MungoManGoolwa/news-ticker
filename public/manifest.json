@@ -1,0 +1,30 @@
+{
+  "name": "Iran Conflict Live News",
+  "short_name": "Conflict News",
+  "description": "Live news ticker tracking the Iran, Israel, and US conflict with AI-powered predictions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050509",
+  "theme_color": "#050509",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
